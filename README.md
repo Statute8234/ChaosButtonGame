@@ -7,7 +7,7 @@ This Python script creates an interactive game using the Pygame library. Players
 - [About](#about)
 - [Features](#features)
 - [Imports](#Imports)
-- [Rating: 6/10](#Rating)
+- [Rating: 3/10](#Rating)
 
 # About
 

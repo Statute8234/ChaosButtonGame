@@ -23,4 +23,4 @@ pygame, random,time
 
 # Rating
 
-The script showcases creativity and Pygame functionality, but could benefit from additional features for enhanced gameplay depth and polish. Optimizing code structure and adding clear comments would improve readability and maintainability. Overall, it provides a solid foundation for further game design experimentation.
+The code has a basic functionality and some interactive elements, but it lacks proper organization and can be improved by breaking it into smaller functions or classes. Variable names are not descriptive or intuitive, and the code contains many magic numbers that should be replaced with named constants for clarity. Some sections are redundant or unnecessary, and there are no comments in the code, making it difficult to understand the logic behind certain operations. Inefficient updates are also a concern, as the entire screen is cleared and updated frequently, impacting performance. Game logic issues are present, such as `if number == number` being always true. The user experience is confusing, and addressing these issues can greatly improve the clarity, efficiency, and overall quality of the code.
